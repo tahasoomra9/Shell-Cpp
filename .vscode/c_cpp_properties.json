@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "WSL",
+            "includePath": [
+                "${workspaceFolder}/include",
+                "${workspaceFolder}/src",
+                "/usr/include",
+                "/usr/include/x86_64-linux-gnu",
+                "/usr/lib/gcc/x86_64-linux-gnu/11/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "_UNICODE"
+            ],
+            "compilerPath": "/usr/bin/g++",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
